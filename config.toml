@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Dokumentation enhancedRMS"
+theme = "documentation"
+[params]
+  themeVariant = "blue"

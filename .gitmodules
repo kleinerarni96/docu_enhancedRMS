@@ -1,0 +1,3 @@
+[submodule "themes/documentation"]
+	path = themes/documentation
+	url = https://github.com/kleinerarni96/hugo-theme-learn
